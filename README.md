@@ -1,4 +1,4 @@
-# MalwareDatabase
+# MalDat
 This is a repository for some Windows and MS-DOS malwares.
 
 This is one of the few repositories of viruses on GitHub.
